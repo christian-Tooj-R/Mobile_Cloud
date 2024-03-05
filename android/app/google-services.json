@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "917572767805",
+    "project_id": "pushnotification-75bd7",
+    "storage_bucket": "pushnotification-75bd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917572767805:android:442bc793741b7e0f929a54",
+        "android_client_info": {
+          "package_name": "com.christooj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJwAlkDz_TRnkl4RGKVgcyBWXTq0SYLwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

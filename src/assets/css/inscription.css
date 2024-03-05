@@ -1,0 +1,31 @@
+/* inscription.css */
+
+.conteneur-inscription {
+    max-width: 300px;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  #label-inscription {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  #mdp-inscription {
+    margin-top: 10px;
+  }
+  
+  #bouton-inscription {
+    margin-top: 20px;
+    width: 200px;
+  }
+  
+  #label2-inscription {
+    margin-top: 20px;
+    font-size: 14px;
+    color: gray;
+  }
+  #mdp-inscription,#email,#nom,#dtn{
+    text-align: start;
+    margin-top: 10px;
+  }

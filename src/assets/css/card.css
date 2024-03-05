@@ -1,0 +1,11 @@
+#detail{
+    float: right;
+    margin-right: 30px;
+    font-size: 20px;
+    margin-bottom: 10px;
+    --background:  rgb(226, 162, 22);
+}
+.image{
+    height: 150px;
+    width: 130px;
+}

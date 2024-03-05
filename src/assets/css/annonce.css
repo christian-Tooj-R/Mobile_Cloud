@@ -1,0 +1,25 @@
+/* annonce.css */
+
+.conteneur-annonce {
+    max-width: 300px;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  #label-annonce {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  #dateHeure,
+  #description,
+  #marque,
+  #uploadPhoto {
+    margin-top: 10px;
+  }
+  
+  #bouton-annonce {
+    margin-top: 20px;
+    float: none;
+  }
+  
